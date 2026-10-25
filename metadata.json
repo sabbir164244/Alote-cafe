@@ -1,0 +1,6 @@
+{
+  "name": "Atole Cafe Landing Page",
+  "description": "A premium client-facing landing page concept for Atole Cafe in Al Mansourah, Riyadh, Saudi Arabia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
